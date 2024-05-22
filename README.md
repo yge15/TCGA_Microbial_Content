@@ -1,7 +1,7 @@
 # TCGA Microbial Content
 Comprehensive analysis of microbial content in 5,734 whole-genome sequencing samples from The Cancer Genome Atlas project
 
-## Supplentary Tables Captions
+## Supplementary Tables Captions
 
 1. Table S1. Raw counts of 5,734 TCGA WGS samples classified at the species level against the Kraken Microbial2023 database, excluding eukaryotes. The contents of Microbial2023 are described in the main text. This resulted in 11,349 species that have non-zero counts.
 2. Table S2. Normalized counts of the values in Table S1, converted to counts per million reads sequenced.

@@ -4,13 +4,6 @@ Comprehensive analysis of microbial content in 5,734 whole-genome sequencing sam
 These are the supplementary files and tables for our [bioRxiv preprint](https://www.biorxiv.org/content/10.1101/2024.05.24.595788v2.full.pdf) [1]
 We are posting the files here because some of them are too large for the journal to take as supplements.
 
-
-## Citation
-1. Ge, Y., Lu, J., Puiu, D., Revsine, M., & Salzberg, S. L. (2024). Comprehensive analysis of microbial content in whole-genome sequencing samples from The Cancer Genome Atlas project. bioRxiv, 2024-05.
-
-Updates:
-1. 19 August 2024: we have updated Table S1-3 and S9-10 by removing raw counts related to HPV, HBV/HCV, and CMV, and added Table S7 separately for those viral counts.
-
 ## Supplementary Tables Captions
 
 1. Table S1. Raw counts of 5,734 TCGA WGS samples classified at the species level against the Kraken Microbial2023 database, excluding eukaryotes. The contents of Microbial2023 are described in the main text. This resulted in 11,332 species that have non-zero counts.
@@ -29,3 +22,9 @@ Updates:
 14. Table S14. List of species in the Microbial2023 Kraken database, with RefSeq accessions.
 15. Table S15. List of species in the Fungi_RefSeq Kraken database, with RefSeq accessions.
 16. Table S16. RefSeq v200 to v220 name conversion list, for 14 of the 557 fungal species whose names were changed between the two releases of RefSeq.
+
+## Citation
+1. Ge, Y., Lu, J., Puiu, D., Revsine, M., & Salzberg, S. L. (2024). Comprehensive analysis of microbial content in whole-genome sequencing samples from The Cancer Genome Atlas project. bioRxiv, 2024-05.
+
+## Updates
+1. 19 August 2024: we have updated Table S1-3 and S9-10 by removing raw counts related to HPV, HBV/HCV, and CMV, and added Table S7 separately for those viral counts.

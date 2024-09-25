@@ -18,7 +18,7 @@ We are posting the files here because some of them are too large for the journal
 10. Table S10. Raw counts from the Poore et al. study at the genus level, for samples used in both this study and Poore et al. This set contains 4,550 samples and 3,552 genera. Raw counts included here were taken directly from Poore et al. (2020).
 11. Table S11. Raw counts of TCGA WGS samples classified at the species level against the Fungi_RefSeq database, for samples and species matched with the Narunsky-Haziza et al. study. This resulted in 4,271 samples and 224 species.
 12. Table S12. Raw counts from the Narunsky-Haziza et al. study at the species level, for samples and species matched with this study. This resulted in 4,271 samples and 224 species. Raw counts included here were taken directly from Narunsky-Haziza et al. (2022).
-13. Table S13. TCGA metadata for 5,734 samples, including unique IDs for this study, IDs used by Poore et al., IDs used by Narunsky-Haziza et al., and the original TCGA identifiers.
+13. Table S13. TCGA metadata for 5,734 samples, including unique IDs for this study, IDs used by Poore et al., IDs used by Narunsky-Haziza et al., and the original TCGA identifiers, followed by read length (rd_len), total number of read alignments (tot_aln), GRCh38 unaligned read counts (grch38_ummaped), GRCh38 and CHM13 unaligned read counts (grch38+chm13_unmapped).
 14. Table S14. List of species in the Microbial2023 Kraken database, with RefSeq accessions.
 15. Table S15. List of species in the Fungi_RefSeq Kraken database, with RefSeq accessions.
 16. Table S16. RefSeq v200 to v220 name conversion list, for 14 of the 557 fungal species whose names were changed between the two releases of RefSeq.

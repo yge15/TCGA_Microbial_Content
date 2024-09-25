@@ -1,7 +1,7 @@
 # TCGA Microbial Content
 Comprehensive analysis of microbial content in 5,734 whole-genome sequencing samples from The Cancer Genome Atlas project
 
-These are the supplementary files and tables for our [bioRxiv preprint](https://www.biorxiv.org/content/10.1101/2024.05.24.595788v2.full.pdf) [1]
+These are the supplementary files and tables for our [bioRxiv preprint](https://www.biorxiv.org/content/10.1101/2024.05.24.595788v3.full.pdf) [1]
 We are posting the files here because some of them are too large for the journal to take as supplements.
 
 ## Supplementary Tables Captions

@@ -6,7 +6,7 @@ We are posting the files here because some of them are too large for the journal
 
 ## Supplementary Tables Captions
 
-1. Table S1. Raw counts of 5,734 TCGA WGS samples classified at the species level against the Kraken Microbial2023 database, excluding eukaryotes. The contents of Microbial2023 are described in the main text. This resulted in 11,332 species that have non-zero counts.
+1. Table S1. Raw counts of 5,734 TCGA WGS samples classified at the species level against the Kraken Microbial2023 database, excluding eukaryotes. The contents of Microbial2023 are described in the main text. This resulted in 11,388 species that have non-zero counts.
 2. Table S2. Normalized counts of the values in Table S1, converted to counts per million reads sequenced.
 3. Table S3. Raw counts of 5,734 TCGA WGS samples classified at the species level against Fungi_RefSeq database. The contents of Fungi_RefSeq include all 557 fungal species in RefSeq as of late 2023.
 4. Table S4. Normalized counts of TableS4, converted to counts per million reads sequenced.
@@ -26,4 +26,4 @@ We are posting the files here because some of them are too large for the journal
 
 ## Updates
 1. 19 August 2024: we have updated Table S1-3 and S9-10 by removing raw counts related to HPV, HBV/HCV, and CMV, and added Table S5 separately for those viral counts.
-2. 16 March 2025: we have added back reads that previously aligned to HPV, HBV, HCV-1, HCV-2, and CMV into our Kraken analysis. Those new viral reads were reported in the updated Table S1 and S2. The tables normalized by per kilobase of genome were removed.
+2. 16 March 2025: for consistency and correctness, we added back the reads previously aligned to HPV, HBV, HCV-1, HCV-2, and CMV into our Kraken analysis. Those new viral reads were reported in the updated Table S1 and S2. The tables normalized by per kilobase of genome were removed.

@@ -20,7 +20,7 @@ We are posting the files here because some of them are too large for the journal
 13. Table S13. TCGA metadata for 5,734 samples, including unique IDs for this study, IDs used by Poore et al., IDs used by Narunsky-Haziza et al., and the original TCGA identifiers, followed by read length (rd_len), the total number of reads that TCGA reported as aligned to GRCh38 (tot_aln), the number of reads that failed to align to GRCh38 (grch38_unmapped), and the number of reads that failed to align to both GRCh38 and CHM13 (grch38+chm13_unmapped). Counts represent individual read counts; paired-end reads will count as 2 reads each.
 14. Table S14. List of species in the Microbial2023 Kraken database, with RefSeq accessions. Note that for the purposes of future analysis, some of these species might be combined, using the species-level counts in Table S1. For example, the database contains 15 different species and 63 genomes from the genus Fusobacterium, and more than one of these has been reported to be present in the colon.
 15. Table S15. List of species in the Fungi_RefSeq Kraken database, with RefSeq accessions.
-Table S16. RefSeq v200 to v220 name conversion list, for 14 of the 557 fungal species whose names were changed between the two releases of RefSeq.
+16. Table S16. RefSeq v200 to v220 name conversion list, for 14 of the 557 fungal species whose names were changed between the two releases of RefSeq.
 
 ## Citation
 1. Ge, Y., Lu, J., Puiu, D., Revsine, M., & Salzberg, S. L. (2024). Comprehensive analysis of microbial content in whole-genome sequencing samples from The Cancer Genome Atlas project. bioRxiv, 2024-05.

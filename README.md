@@ -4,7 +4,7 @@ Comprehensive analysis of microbial content in 5,734 whole-genome sequencing sam
 These are the supplementary files and tables for our [bioRxiv preprint](https://www.biorxiv.org/content/10.1101/2024.05.24.595788v3.full.pdf) [1]
 We are posting the files here because some of them are too large for the journal to take as supplements.
 
-## Supplementary Tables Captions
+## Supplementary Table Captions
 1. Table S1. Overview of 569 solid tissue normal samples out of the 5,734 WGS samples analyzed in this study. Column headers are the same as for Table 1.
 2. Table S2. Overview of 2,277 blood-derived normal samples out of the 5,734 WGS samples analyzed in this study. Column headers are the same as for Table 1.
 3. Table S3. Raw counts of 5,734 TCGA WGS samples classified at the species level against the Kraken Microbial2023 database, excluding eukaryotes. The contents of Microbial2023 are described in the main text. This resulted in 11,332 species that have non-zero counts.
